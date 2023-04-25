@@ -1,0 +1,9 @@
+@media screen and (max-width: 576px) {
+    h1 {
+      text-align: center;
+    }
+  }
+.tabla {
+ max-height: 300px; 
+ overflow: auto;
+}
